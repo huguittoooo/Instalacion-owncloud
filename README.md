@@ -6,6 +6,7 @@
  ``
 sudo apt update
 ``
+
 <img src="imagen sudo apt update.png" alt="Descripció de la imatge">
 
 La contraseña es usuario
@@ -17,6 +18,10 @@ Y después tienes que poner
 sudo apt upgrade
 ``
 
+<img src="imagen si no.png" alt="Descripció de la imatge">
+
+
+La respuesta es Si, es decir, tienes que poner un S y luego darle al enter
 
 
 2.Una vez hecho la actualizaion de la maquina, pasamos a la instalacion del servidor web llamado apache2
