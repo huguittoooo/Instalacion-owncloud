@@ -6,7 +6,7 @@
  ``
 sudo apt update
 ``
-<img src="imagen sudo apt update" alt="Descripció de la imatge">
+<img src="imagen sudo apt update." alt="Descripció de la imatge">
 Y después tienes que poner
 
 ``
