@@ -6,9 +6,9 @@
  ``
 sudo apt update
 ``
-<img src="imagen sudo apt update." alt="Descripció de la imatge">
+<img src="imagen sudo apt update.png" alt="Descripció de la imatge">
 
-
+La contraseña es usuario
 
 
 Y después tienes que poner
