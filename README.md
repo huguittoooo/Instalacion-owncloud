@@ -7,11 +7,17 @@
 sudo apt update
 ``
 <img src="imagen sudo apt update." alt="Descripció de la imatge">
+
+
+
+
 Y después tienes que poner
 
 ``
 sudo apt upgrade
 ``
+
+
 
 2.Una vez hecho la actualizaion de la maquina, pasamos a la instalacion del servidor web llamado apache2
 
